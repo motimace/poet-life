@@ -10,5 +10,6 @@
 * requests
 * pandas
 * opencv-python
+
 其他：
 * [phantomjs](https://phantomjs.org/download.html)：实现图片渲染
